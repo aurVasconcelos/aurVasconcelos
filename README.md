@@ -1,16 +1,24 @@
-## Hi! I'm Aurora Vasconcelos
+<h1 align="center">Hi! I'm Aurora Vasconcelos</h1>
 
 
-I'm a full stack web developer. During the past three years I have been discovering the world of code and during this journey I have been learning web, gamming and
-mobile apps development, web desing and deep learning! My passion is code and I'm always ready to new challenges.
+<p align="justify">I'm a full stack web developer. During the past three years I have been discovering the world of code and during this journey I have been learning web, gamming and
+mobile apps development, web design and deep learning! My passion is code and I'm always ready to new challenges.</p>
 
 
-## :crescent_moon: About me
+## 🌙 About me
 
-:earth_africa: I'm living in Portugal
+🌍 I'm living in Portugal
 
-:nerd_face: I'm finishing my Communication and Multimedia degree
+📚 I'm finishing my Communication and Multimedia degree
 
-:computer: I'm currently working with front-end development
+💻 Currently working with Flutter and PHP
 
-:ballet_shoes: I'm a ballet dancer
+🌱 Slowly learning neural network 
+
+🩰 My secret passion is dance, I have been dancing classical ballet from the last 17 years
+
+🛥️ Fun fact: I have a driving license for boats, it is actually called <i>Yachtman's license</i> (I also have a driving license but that's not that interesting)
+
+##
+
+
