@@ -12,7 +12,7 @@ mobile apps development, web design and deep learning! My passion is code and I'
  
 🌍 I'm living in Portugal
 
-📚 I'm finishing my Communication and Multimedia degree
+📚 I'm finishing my Communication and Multimedia bachelor degree
 
 💻 Currently working with Flutter and PHP
 
