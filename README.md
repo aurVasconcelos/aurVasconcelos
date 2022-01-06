@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Aurora Vasconcelos 🌙</h1>
 
 
-<p align="justify">I'm a full stack web developer. During the past three years I have been discovering the world of code and during this journey I have been learning web, gaming andmobile apps development, web design and deep learning! My passion is code and I'm always ready for new challenges.</p>
+<p align="justify">I'm a full stack web developer. During the past three years I have been discovering the world of code and during this journey I have been learning web, gaming and mobile apps development, web design and deep learning! My passion is code and I'm always ready for new challenges.</p>
  
 <div style="display:inline-block">
  
