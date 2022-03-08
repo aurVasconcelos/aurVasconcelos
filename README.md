@@ -5,7 +5,7 @@
  
 <div style="display:inline-block">
  
-<img height="380em" align="right" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/p403x403/269792634_1126477078160141_5091892424239437695_n.png?_nc_cat=108&ccb=1-5&_nc_sid=aee45a&_nc_ohc=g5Xv2TLw3wQAX_bUf5Z&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVI9tKsTDX1wviO8neZGFKnzmIZ20MNfFRhnV-Nf_4iQGg&oe=61EF37C6"/>
+<img height="380em" align="right" src="https://github.com/aurVasconcelos/personal-icon/blob/master/Me_Illustration_Vector.png"/>
 
 ## About me
  
