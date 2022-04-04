@@ -13,7 +13,9 @@
 
 📚 I'm finishing my Communication and Multimedia bachelor degree
 
-💻 Currently working with Flutter and PHP
+📁 Most recent project was with Flutter and PHP
+ 
+💻 Currently working with StencilJS
 
 🌱 Slowly learning neural network 
 
