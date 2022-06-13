@@ -15,7 +15,7 @@
 
 📁 Most recent project was with Flutter and PHP
  
-💻 Currently working with StencilJS
+💻 Currently working with StencilJS and React
 
 🌱 Slowly learning neural network 
 
